@@ -1,5 +1,7 @@
+あ	:1x1_kana_a:	名詞	
 い	:1x1_kana_i:	名詞	
 う	:1x1_kana_u:	名詞	
+え	:1x1_kana_e:	名詞	
 えくすくらめーしょん	:1x1_mark_exclamation:	名詞	
 お	:1x1_kana_o:	名詞	
 か	:1x1_kana_ka:	名詞	
