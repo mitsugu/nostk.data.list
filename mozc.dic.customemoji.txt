@@ -13,6 +13,7 @@
 かわいい	:2x2_kawaii03:	名詞	
 こんとろーるしー	:3x1_ctrl_c:	名詞	
 しふとおるとでりーと	:3x1_sad:	名詞	
+すごい	:3x1_sugoi:	名詞	
 たくみ	:1x1_takumi:	名詞	
 たしかに	:2x2_tashikani:	名詞	
 だじゃれ	:2x2_dajare:	名詞	
