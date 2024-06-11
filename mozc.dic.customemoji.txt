@@ -22,6 +22,13 @@
 なるほど	:2x2_naruhodo:	名詞	
 ねこさま	:2x2_nekosama:	名詞	
 ねこちゃん	:2x2_neko_chan:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_cheer_purple:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_cheer_yellow:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_cyclone:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_doctor:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_soy_farmer0:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_soy_farmer1:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_comfy_donut_shop_staff:	名詞	
 はっぴーばーすでー	:3x1_hbd:	名詞	
 ふろりだ	:2x2_furorida:	名詞	
 ほかいま	:2x2_hokaima:	名詞	
