@@ -29,6 +29,17 @@
 にゃんぷっぷ	:1x1_nyanpuppu_comfy_donut_shop_staff:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cheer_blue:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cheer_green:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_vanilla:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_banhammer:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_blush:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_hammer:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_heart:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_genchu:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_peek:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_shocked:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_symmetric:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_teapot:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_wrapped_in_blanket:	名詞	
 ねこさま	:2x2_nekosama:	名詞	
 ねこちゃん	:2x2_neko_chan:	名詞	
 はっぴーばーすでー	:3x1_hbd:	名詞	
