@@ -1,0 +1,186 @@
+1000	#1000FootRadiusJourney	短縮よみ	
+sc	SCrophopper	人名	
+あのくたら	阿耨多羅三藐三菩提	名詞	
+あま	あまんちゅ OR  海色マーチ OR みずいろミュージアム OR ダイビング OR スキューバ OR ウェットスーツ OR ウエットスーツ OR ラッシュガード OR シュノーケル OR スノーケル OR 足ヒレ OR 水中マスク OR 潜水	短縮よみ	
+あま	雨宮さつき	人名	
+あまぞん	&emi=AN1VRQENFRJN5	短縮よみ	
+あわ	阿和	人名	
+あんかー	14:20:61:EA:5F:A8	固有名詞	
+いぇ	也圆	人名	
+いちのくらさわ	一ノ倉沢	地名	
+いのうえ	井上浩輝	人名	
+いばらき	大阪府茨木市新郡山二丁目１ー１１０５	地名	
+うぇ	(ウェットスーツ OR ウエットスーツ OR ダイビングスーツ OR ダイバースーツ OR スキューバスーツ OR スクーバスーツ OR ドライスーツ OR ダイビングウェア )	短縮よみ	
+うつるんです	FUJIFILM QuickSnap ISO 400	固有名詞	
+うにゅう	npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t	人名	
+えど	Edward Weston	人名	
+えんぴつきりだし	鉛筆切出	名詞	
+おー	~/Pictures/author/	短縮よみ	
+おがさわらともこ	小笠原朋子	人名	
+おしゃんぽ	お写ん歩	固有名詞	
+おみち	尾道	地名	
+かえらずのけん	不帰ノ嶮	地名	
+かおもじ	(◉◞౪◟◉ )	顔文字	
+かおもじ	(ﾟｰﾟ*)｡oO（）	顔文字	
+かおもじ	＞ｘ＜。	顔文字	
+かおもじ	┌(_Д_┌ )┐	顔文字	
+かおもじ	ಠ_ಠ	顔文字	
+かおもじ	ʅ(´◔౪◔)ʃ	顔文字	
+かおもじ	(¯―¯٥)	顔文字	
+かおもじ	_(:3」∠)_	顔文字	
+かおもじ	⁝( ´ᾥ ｀　)⁝	顔文字	
+かおもじ	( •᷄ὤ•᷅)	顔文字	
+がぞう	filter:images filter:follows -filter:retweets -filter:replies	短縮よみ	
+がぞう	filter:media filter:follows -filter:retweets -filter:replies	短縮よみ	
+かたかい	堅貝	人名	
+かつおじ	勝尾寺	固有名詞	
+かてん	夏天	固有名詞	
+かみなり	⚡	名詞	
+かめ	カメラ OR カメ娘 OR カメコ -夢のカメラ -ビッカメ娘	名詞	
+かもんじ	嘉門次	人名	
+かもんじごや	嘉門次小屋	固有名詞	
+からさわ	涸沢	地名	
+かんま	%2C	短縮よみ	
+きしねんりょ	希死念慮	名詞	
+きむたく	木村琢磨	人名	
+きゃ	キャンプ -ポケ -ツイステ -バディ -ファンタジア -スキャンプ	短縮よみ	
+ぎゅ	奎珍	人名	
+きゅーあんどえー	ref=ask_al_saq_ql_hza	短縮よみ	
+きょこうせんだん	虚航船団	固有名詞	
+きりうりわり	喜連瓜破	地名	
+ぐっど	ദ്ദി^-^)	名詞	
+くまもと	熊本チエコ	人名	
+けい	=LOOKUP(10^10,INDIRECT("B1:B"&ROW()-2))+LOOKUP(10^10,INDIRECT("B"&ROW()-1))	短縮よみ	
+けいちん	奎珍	人名	
+けいみん	傾眠	名詞	
+こうぞう	行蔵	人名	
+こうろえん	香櫨園	地名	
+ごじのしゅうせい	Typo correction	短縮よみ	
+こっとん	COTTONCARRIER	組織	
+ごとうはやこ	後藤羽矢子	人名	
+こなし	小梨	地名	
+こなしだいら	小梨平	地名	
+こにしろく	小西六	組織	
+こま	駒田華子	人名	
+さいかまき	西花マキ	人名	
+さかもり	坂盛	人名	
+さけはらす	さけハラス	人名	
+さと	"大山里美様" <plena_luno.galaksia-fervojo@ezweb.ne.jp>	短縮よみ	
+さと	"大山里美様" <satomi.oyama@gmail.com>	短縮よみ	
+しぇ	(( クラシック OR トラディショナル ) シェービング ) OR shaveoftheday OR SOTD OR wetshaving -嵐 -かれん -革靴	短縮よみ	
+しぐま	SIGMA 18-200mm F3.5-6.3 II DC OS HSM / DC HSM	固有名詞	
+しぐま	SIGMA MACRO 105mm F2.8 EX DG	固有名詞	
+じこけいせい	事故傾性	名詞	
+しま	志摩リン OR 土岐綾乃 OR 鳥羽美波 OR 大垣千明 OR 駒田華子 OR 志摩咲	短縮よみ	
+しま	志摩リン	人名	
+しま	志摩咲	人名	
+しゅ	 OR シュノーケリング OR スノーケリング OR Diving OR Scuba OR Snokeling OR Wetsuit	短縮よみ	
+しょうざい	硝材	名	
+じょうせいのさと	常清の里	名詞	
+じょうりゅうき	⚗️	名詞	
+しょく	食彩マーケット郡山	組織	
+しん	nyskhd	人名	
+しん	"大山晋" <koshienstadium.tigers22@gmail.com>	短縮よみ	
+しん	晋	人名	
+しん	新阿武山病院	組織	
+す	スーパーカブ	固有名詞	
+すなっぷしーど	Google Snapseed 2.19.1.303051424	固有名詞	
+すぺーす	&nbsp	短縮よみ	
+すまみ	スマ見	人名	
+せお	瀬尾拓慶	人名	
+せおたくみち	瀬尾拓慶	人名	
+せつ	楔	名詞	
+ぜんけつ	全欠	名詞	
+そうはな	惣花	固有名詞	
+そっきょてん	測距点	名詞	
+だい	( ダイビング OR スキューバ OR スクーバ ) -遺体 -キャッチ -野球 -スカイ	短縮よみ	
+たいらっぴょうやま	平標山	固有名詞	
+たけだかずのり	武田和命	人名	
+たむろん	TAMRON SP AF17-50mm F/2.8 XR Di II LD Aspherical [IF] Model A16	固有名詞	
+だんしゃり	断捨離	名詞	
+ちとう	池塘	名詞	
+ちょうそう	鳥葬	名詞	
+つと	津門	地名	
+ていざん	低山	名詞	
+ていらー	Taylor of Old Bond Street	組織	
+てくらやま	幣久良山	地名	
+とき	刻	名詞	
+とき	土岐綾乃	人名	
+どっぴょう	独標	地名	
+どら	オリジナル ( ドラム OR ギター OR ベース OR バンド OR 楽器 ) -バンドリ -ドラムマニア -油彩 -油絵	短縮よみ	
+どら	ドラム -缶 -ピング -パンジャン -虹龍 -ウルトラマン -怪獣 -ドラムマニア -油彩	短縮よみ	
+とり	filter:images -filter:retweets -filter:replies list:1623491229676896256	短縮よみ	
+ないふ	filter:images -filter:retweets -filter:replies list:1639426678853373953	短縮よみ	
+なしょじお	#E5C500	固有名詞	
+なのか	なのか	短縮よみ	
+なますて	नमस्ते	独立語	
+なむ	本門八品上行所伝本因下種南無妙法蓮華経	短縮よみ	
+にしいとや	西糸屋山荘	固有名詞	
+にしいとやさんそう	西糸屋山荘	組織	
+ねぶかっぴら	葱平	地名	
+のり	乃莉	名	
+ばいりせつざん	梅里雪山	地名	
+はかって	忖って	副詞	
+ばっくすらっしゅ	&#x2216;	短縮よみ	
+はな	花铭	人名	
+はにゃ	(੭ ᐕ))？	顔文字	
+はるかぜ	6638161	数	
+はるかぜ	兵庫県西宮市甲子園春風町１番１３−４０２号	地名	
+はるの	 OR 秋山春乃 OR 雨宮さつき OR 霧山アン OR 敷島桜子 OR 熊本チエコ OR シロクマと不明局 OR 月曜日の空飛ぶオレンジ。 OR 魔法少女ほむら☆たむら	短縮よみ	
+はるの	秋山春乃	人名	
+はんにちりょこう	#Halfdaytrip	名詞	
+ひきや	曳家	名詞	
+ひゅって	Hütte	名詞	
+ふぃるむ	🎞	記号	
+ふぉろー	filter:images filter:follows -filter:retweets -filter:replies	短縮よみ	
+ふじこ	くぁwせdrftgyふじこlp	固有名詞	
+ふじちか	藤近小梅	人名	
+ぶっか	仏花	名詞	
+ふらわー	花铭	人名	
+ぺんた	HD PENTAX-FA 35mm F2	固有名詞	
+ぺんた	smc PENTAX-FA 31mm F1.8 AL Limited	固有名詞	
+ぺんた	smc PENTAX-FA 43mm F1.9 Limited 	固有名詞	
+ぺんた	smc PENTAX-FA 77mm F1.8 Limited	固有名詞	
+ぺんた	HD PENTAX-FA 35mm F2	名詞	
+ぺんた	PENTAX-A ZOOM 28-80mm F3.5-4.5	固有名詞	
+ぺんた	SMC PENTAX 55mmF1.8	固有名詞	
+ぺんた	smc PENTAX-A 50mm F1.7	固有名詞	
+ぺんた	smc PENTAX-M 100mm F2.8	固有名詞	
+ぺんた	smc PENTAX-M 28mm F2.8	固有名詞	
+ぺんた	smc PENTAX-M 135mm F3.5	固有名詞	
+ぺんた	PENTAX *ist DL2	固有名詞	
+ぺんた	PENTAX KP	固有名詞	
+ぺんた	Asahi Optical Co., Ltd.	組織	
+ぺんた	PENTAX Corporatin	組織	
+ぺんた	PENTAX MX	固有名詞	
+ぺんた	#集まれ一眼レフ好き #PENTAXキャンペーン2022	名詞	
+べんてん	辯天	名詞	
+ほうかん	訪看	名詞	
+ほうこう	方向錯亂	人名	
+ほうじゅう	放獣	名詞	
+ぼっか	歩荷	名詞	
+みたけらん	美竹蘭	人名	
+みつぐ	09092861938	数	
+みつぐ	534439	数	
+みつぐ	दशान गोंग	人名	
+みつぐ	npub1f3vjqsxrnv7g6fauy5kakcfh4ftmcvk3qd29de8u43qpc2f69g8ss3zlfs	人名	
+みった	三ツ田	人名	
+みつた	三ツ田	人名	
+みつば	三葉堂寫眞機店	固有名詞	
+みのはら	耳原	地名	
+みゅーれ	MÜHLE	組織	
+むらゆう	村田雄平	人名	
+もりやまたけお	森山威男	人名	
+もるかー	  \ ᴾᵁᴵ ᴾᵁᴵ/   ꜀◜▄▄▄◝꜆▗(  ◕  ̬̫ ◕  )▖	顔文字	
+やっきほう	薬機法	名詞	
+やぶみ	npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r	人名	
+やま	登山 OR 山ガール -ファンタジア -LED	短縮よみ	
+やまなさわこ	山名沢湖	人名	
+やりがたけ	鑓ヶ岳	地名	
+ゆうこうかい	友紘会	組織	
+ゆめのゆうみんしゃ	夢の遊眠社	組織	
+ようそんじょう	養鱒場	名詞	
+りついーと	 -filter:retweets -filter:replies	短縮よみ	
+ろう	老夫子大番薯	人名	
+ろしゅつけい	露出計	名詞	
+わすれる	カタルシス	名詞	
