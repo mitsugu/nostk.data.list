@@ -40,6 +40,8 @@
 にゃんぷっぷ	:1x1_nyanpuppu_symmetric:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_teapot:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_wrapped_in_blanket:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_hungry:	名詞	
+にゃんぷっぷ	:1x1_nyanpuppu_coffee:	名詞	
 ねこさま	:2x2_nekosama:	名詞	
 ねこちゃん	:2x2_neko_chan:	名詞	
 はっぴーばーすでー	:3x1_hbd:	名詞	
