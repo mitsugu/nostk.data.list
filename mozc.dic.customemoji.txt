@@ -1,4 +1,5 @@
 いいですね	:2x2_iidesune:	名詞	
+いいね	:3x1_iine:	名詞	
 いいねー	:2x2_iine:	名詞	
 いわい	:2x1_iwai:	名詞	
 うまそう	:2x2_umasou:	名詞	
@@ -6,11 +7,16 @@
 おだいじに	:2x2_odaijini:	名詞	
 おはのす	:2x2_oha_nosu01:	名詞	
 おはよう	:2x2_ohayou:	名詞	
+おはようございます	:4x3_ohayou_gozai_masu:	名詞	
 おはよー	:2x2_ohayo:	名詞	
+おやありー	:3x2_oya_ari_:	名詞	
 おやすみ	:2x2_oyasumi:	名詞	
+おやすみー	:3x2_oyasumi_:	名詞	
 かわいい	:2x2_kawaii01:	名詞	
 かわいい	:2x2_kawaii02:	名詞	
 かわいい	:2x2_kawaii03:	名詞	
+かわええ	:2x2_kawaee:	名詞	
+かわええー	:3x2_kawaee_:	名詞	
 こんとろーるしー	:3x1_ctrl_c:	名詞	
 しふとおるとでりーと	:3x1_sad:	名詞	
 すごい	:3x1_sugoi:	名詞	
@@ -19,6 +25,8 @@
 だじゃれ	:2x2_dajare:	名詞	
 だぶりゅーきゅー	:3x1_wq:	名詞	
 てら	:2x1_tera:	名詞	
+てらあり	:2x2_tera_ari:	名詞	
+てらありー	:3x2_tera_ari_:	名詞	
 なるほど	:2x2_naruhodo:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cheer_purple:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cheer_yellow:	名詞	
