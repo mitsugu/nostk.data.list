@@ -56,3 +56,7 @@
 ふろりだ	:2x2_furorida:	名詞	
 ほかいま	:2x2_hokaima:	名詞	
 まいにゅーぎあ	:3x1_mng:	名詞	
+わかる	:3x1_wakaru:	名詞	
+わらっちゃった	:4x2_warattyatta:	名詞	
+わらっちゃったよー	:3x3_warattyatta_yo_:	名詞	
+わらってしまった	:4x2_waratte_shimatta:	名詞	
