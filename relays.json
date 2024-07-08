@@ -1,17 +1,17 @@
 {
-  "wss://nos.lol/": { "read": true, "write": true },
+  "wss://nos.lol/": { "read": true, "write": false },
   "wss://nosdrive.app/relay": { "read": false, "write": true },
-  "wss://nostr-relay.nokotaro.com": { "read": true, "write": true },
-  //"wss://nostr.fediverse.jp": { "read": true, "write": true },
-  "wss://nostr.holybea.com": { "read": true, "write": true },
+  // "wss://nostr-relay.nokotaro.com": { "read": true, "write": true },
+  "wss://nostr.fediverse.jp": { "read": true, "write": true },
+  "wss://nostr.holybea.com": { "read": true, "write": false },
   "wss://nostrja-kari.heguro.com": { "read": true, "write": true },
   "wss://nrelay-jp.c-stellar.net": { "read": true, "write": true },
   "wss://nrelay.c-stellar.net": { "read": true, "write": true },
   "wss://r.kojira.io": { "read": true, "write": true },
   "wss://relay-jp.haniwar.com": { "read": true, "write": true },
   "wss://relay-jp.nostr.wirednet.jp": { "read": true, "write": true },
-  "wss://relay.damus.io/": { "read": true, "write": true },
-  "wss://relay.nostr.band/": { "read": true, "write": true },
+  "wss://relay.damus.io/": { "read": true, "write": false },
+  "wss://relay.nostr.band/": { "read": true, "write": false },
   "wss://relay.nostr.wirednet.jp": { "read": true, "write": true },
   "wss://yabu.me": { "read": true, "write": true }
 }

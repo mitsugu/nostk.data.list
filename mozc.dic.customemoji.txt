@@ -1,3 +1,4 @@
+ありー	:3x1_ari_:	名詞	
 いいですね	:2x2_iidesune:	名詞	
 いいね	:3x1_iine:	名詞	
 いいねー	:2x2_iine:	名詞	
@@ -5,6 +6,7 @@
 うまそう	:2x2_umasou:	名詞	
 うらやま	:2x2_urayama:	名詞	
 おだいじに	:2x2_odaijini:	名詞	
+おはー	:3x1_oha_:	名詞	
 おはのす	:2x2_oha_nosu01:	名詞	
 おはよう	:2x2_ohayou:	名詞	
 おはようございます	:4x3_ohayou_gozai_masu:	名詞	
