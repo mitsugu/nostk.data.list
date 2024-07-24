@@ -30,6 +30,7 @@
 てらあり	:2x2_tera_ari:	名詞	
 てらありー	:3x2_tera_ari_:	名詞	
 なるほど	:2x2_naruhodo:	名詞	
+なんもしらん	:3x2_nanmo_shiran:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cheer_purple:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cheer_yellow:	名詞	
 にゃんぷっぷ	:1x1_nyanpuppu_cyclone:	名詞	
@@ -59,6 +60,7 @@
 ほかいま	:2x2_hokaima:	名詞	
 まいにゅーぎあ	:3x1_mng:	名詞	
 わかる	:3x1_wakaru:	名詞	
+わしはしらん	:3x2_washiha_shiran:	名詞	
 わらっちゃった	:4x2_warattyatta:	名詞	
 わらっちゃったよー	:3x3_warattyatta_yo_:	名詞	
 わらってしまった	:4x2_waratte_shimatta:	名詞	
